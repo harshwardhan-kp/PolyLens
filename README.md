@@ -1,4 +1,4 @@
-# 🧠 DevDash: PolyLens AI
+# 🧠 DevDash: Polylens AI
 PolyLens AI is an AI-powered chatbot that provides multiple stakeholder perspectives on complex global, political, ethical, and social issues. Instead of a single biased answer, it helps users understand every side of a situation—from governments and civilians to neutral observers.
 
 
@@ -12,3 +12,9 @@ PolyLens AI is an AI-powered chatbot that provides multiple stakeholder perspect
 ![Static Badge](https://img.shields.io/badge/VERTEX_AI-7E57C2?style=for-the-badge&logo=google&logoColor=white)
 
 ![License](https://img.shields.io/badge/License-MIT-9E9E9E?style=for-the-badge)
+
+##  🚀 Project Preview
+
+
+🔗 Live Link: https://poly-lens.vercel.app/
+
